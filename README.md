@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=c,cs,css,dart,discord,dotnet,eclipse,flutter,git,github,html,idea,java,sqlite,stackoverflow,unity,visualstudio,vscode,wordpressflutter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,css,dart,discord,dotnet,eclipse,flutter,git,github,html,idea,java,sqlite,stackoverflow,unity,visualstudio,vscode,wordpressflutter&perline=6)](https://skillicons.dev)
 
 - 👋 Hi, I’m @halil-bekli
 - 👀 I’m interested in Computer Science and Software Development...
