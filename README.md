@@ -1,5 +1,5 @@
 <div align="center">
-  <h2"> 👋 Hi, I’m Halil İbrahim Bekli </h2>
+  <h2> 👋 Hi, I’m Halil İbrahim Bekli </h2>
   <h3> Computer Science Student </h3>
 </div>
 
