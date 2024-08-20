@@ -1,4 +1,8 @@
-<h2 align="center"> 👋 Hi, I’m Halil İbrahim Bekli </h2>
+<div align="center">
+  <h2"> 👋 Hi, I’m Halil İbrahim Bekli </h2>
+  <h3>Computer Science Student</h3>
+</div>
+
 
 <p align="center">
   <h1 align="center"> My Skills </h1>
