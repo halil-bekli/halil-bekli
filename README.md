@@ -1,4 +1,4 @@
-<h1> - 👋 Hi, I’m Halil İbrahim Bekli </h1>
+<h2 align="center"> 👋 Hi, I’m Halil İbrahim Bekli </h2>
 
 <p align="center">
   <h1 align="center"> My Skills </h1>
