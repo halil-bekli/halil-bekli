@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 👋 Hi, I’m Halil İbrahim Bekli </h2>
-  <h5> ⚡ I’m a Computer Science Student </h3>
+  <h5> I’m a Computer Science Student </h3>
 </div>
 
 <hr/>
