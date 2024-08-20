@@ -3,6 +3,7 @@
   <h3> Computer Science Student </h3>
 </div>
 
+<hr/>
 
 <p align="center">
   <h1 align="center"> My Skills </h1>
