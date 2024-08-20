@@ -1,3 +1,5 @@
+ - 👋 Hi, I’m Halil İbrahim Bekli </h1>
+
 <p align="center">
   <h1 align="center"> My Skills </h1>
     <img src="https://skillicons.dev/icons?i=c,cs,css,dart,discord,dotnet,eclipse,flutter,git,github,html,idea,java,sqlite,stackoverflow,unity,visualstudio,vscode,wordpress,flutter&perline=30" />
@@ -5,7 +7,6 @@
 
 <hr/>
 
-- 👋 Hi, I’m @halil-bekli
 - 👀 I’m interested in Computer Science, Software Development, Game Development...
 - 🌱 I’m currently learning ASP.NET, ML, DL, Data Science, Flutter...
 - 💞️ I’m looking to collaborate on everything about IT
